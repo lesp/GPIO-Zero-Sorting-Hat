@@ -32,7 +32,4 @@ while True:
         ravenclaw.blink(0.2,0.2)
         sleep(5)
         ravenclaw.off()
-
-
-    #print(message, house)
     sleep(0.2)
